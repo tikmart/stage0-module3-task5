@@ -9,7 +9,7 @@ public class NumberDivider {
 
         toBeDivided /=5;
 
-        System.out.println(toBeDivided);
+        System.out.println((float) toBeDivided);
 
     }
 }
