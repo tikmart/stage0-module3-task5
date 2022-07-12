@@ -7,9 +7,9 @@ public class NumberDivider {
 
         toBeDivided = 19;
 
-        toBeDivided /=5;
+        float result = toBeDivided / 5;
 
-        System.out.println((float) toBeDivided);
+        System.out.println(result);
 
     }
 }
